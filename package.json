@@ -4,7 +4,8 @@
   "description": "Design System for INPRS",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "sass:build": "sass --no-source-map scss:css",
+    "sass:watch": "sass --no-source-map --watch scss:css"
   },
   "author": "Joel Bruns",
   "license": "ISC",
@@ -12,8 +13,10 @@
     "lite-server": "^2.6.1"
   },
   "dependencies": {
-    "bootstrap": "^4.5.2",
+    "@fortawesome/fontawesome-svg-core": "^6.5.1",
+    "bootstrap": "^4.6.2",
     "jquery": "^3.5.1",
-    "popper.js": "^1.16.1"
+    "popper.js": "^1.16.1",
+    "sass": "^1.72.0"
   }
 }
