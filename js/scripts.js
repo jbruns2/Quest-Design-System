@@ -8,6 +8,7 @@ function changeContent(page) {
             break;
         case 'typography':
             url = 'https://jbruns2.github.io/Quest-Design-System/pages/typography.html';
+            console.log(url);
             break;
         case 'buttons':
             url = '/pages/buttons.html';
