@@ -7,7 +7,7 @@ function changeContent(page) {
             url = '/pages/home.html';
             break;
         case 'typography':
-            url = '/pages/typography.html';
+            url = 'pages/typography.html';
             break;
         case 'buttons':
             url = '/pages/buttons.html';
