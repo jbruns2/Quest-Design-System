@@ -11,25 +11,25 @@ function changeContent(page) {
             console.log(url);
             break;
         case 'buttons':
-            url = '/pages/buttons.html';
+            url = 'https://jbruns2.github.io/Quest-Design-System/pages/buttons.html';
             break;
         case 'colors':
-            url = '/pages/colors.html';
+            url = 'https://jbruns2.github.io/Quest-Design-System/pages/colors.html';
             break;
         case 'forms':
-            url = '/pages/forms.html';
+            url = 'https://jbruns2.github.io/Quest-Design-System/pages/forms.html';
             break;
         case 'icons':
-            url = '/pages/icons.html';
+            url = 'https://jbruns2.github.io/Quest-Design-System/pages/icons.html';
             break;
         case 'images':
-            url = '/pages/images.html';
+            url = 'https://jbruns2.github.io/Quest-Design-System/pages/images.html';
             break;
         case 'layout':
-            url = '/pages/layout.html';
+            url = 'https://jbruns2.github.io/Quest-Design-System/pages/layout.html';
             break;
         case 'voice':
-            url = '/pages/voice.html';
+            url = 'https://jbruns2.github.io/Quest-Design-System/pages/voice.html';
             break;
         default:
             url = '404.html';
