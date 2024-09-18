@@ -4,7 +4,7 @@ function changeContent(page) {
 
     switch (page) {
         case 'home':
-            url = '/pages/home.html';
+            url = 'https://jbruns2.github.io/Quest-Design-System/pages/home.html';
             break;
         case 'typography':
             url = 'https://jbruns2.github.io/Quest-Design-System/pages/typography.html';
