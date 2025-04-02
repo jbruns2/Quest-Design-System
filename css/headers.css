@@ -2,3 +2,11 @@
     width: 75%;
     padding: 32px 0px 0px 20px;
 }
+
+.banner {
+    background-color: var(--blue);
+}
+
+.left {
+    margin: auto;
+}
