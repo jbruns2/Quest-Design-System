@@ -1,6 +1,6 @@
 buttonMain-small {
     border-radius: 8px;
-    background-color: var(--blue);
+    background-color: blue;
     padding: 16px;
     font-size: 12px;
 }
