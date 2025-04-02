@@ -7,3 +7,17 @@ body {
   height: 30px;
   width: 30px;
 }
+
+h1, h2, h3, h4, p, label, .link {
+  font-family: "greycliff-cf";
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 60px;
+}
+
+h2 {
+  font-weight: bold;
+  font-size: 48px;
+}
