@@ -31,6 +31,9 @@ function changeContent(page) {
         case 'voice':
             url = 'https://jbruns2.github.io/Quest-Design-System/pages/voice.html';
             break;
+        case 'cards':
+            url = 'https://jbruns2.github.io/Quest-Design-System/pages/cards.html';
+            break;
         default:
             url = '404.html';
     }

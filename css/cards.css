@@ -1,0 +1,19 @@
+.card {
+    width: 296px;
+    height: 328px;
+}
+
+.thumbnail {
+    color: #1C2674;
+    width: 312px;
+    height: 160px;
+}
+
+.cardInfo {
+   padding: 20px;
+}
+
+.link {
+    padding: 20px;
+    padding-top: 40px;
+}
