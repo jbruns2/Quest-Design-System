@@ -21,3 +21,32 @@ h2 {
   font-weight: bold;
   font-size: 48px;
 }
+
+h3 {
+  font-weight: bold;
+  font-size: 32px;
+}
+
+h4 {
+  font-weight: medium;
+  font-size: 24px;
+}
+
+.bodyLarge {
+  font-size: 18px;
+}
+
+p {
+  /* font-weight: medium; */
+  font-size: 16px;
+}
+
+label {
+  /* font-weight: bold; */
+  font-size: 12px;
+}
+
+.link {
+  font-style: italic;
+  font-size: 14px;
+}
