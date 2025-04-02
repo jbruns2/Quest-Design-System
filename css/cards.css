@@ -1,12 +1,12 @@
 .card {
-    width: 296px;
+    width: 312px;
     height: 328px;
 }
 
 .thumbnail {
-    color: #1C2674;
+    background-color: var(--blue);
     width: 312px;
-    height: 160px;
+    height: 208px;
 }
 
 .cardInfo {
@@ -14,6 +14,5 @@
 }
 
 .link {
-    padding: 20px;
-    padding-top: 40px;
+    padding: 40px 20px 0px 20px;
 }
